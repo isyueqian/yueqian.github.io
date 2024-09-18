@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Qian's Website"
+title                    : "Lizzy's Website"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://isyueqian.github.io/yueqian.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Qian(Lizzy) YUE"
+description              : &description "Be authentic. Lean in. Just enjoy."
+url                      : https://isyueqian.github.io/yueqian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "isyueqian/yueqian.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "YUE Qian"
+  name             : "Qian(Lizzy) YUE"
   pronouns         : # example: "she/her"  
-  bio              : "Be authentic. Lean in. Just enjoy."
+  bio              : "Senior Performance Engineer"
   location         : "China Shanghai"
   employer         : #"Red Brick University"
   uri              : # URL
