@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "YUE Qian / Personal Homepage"
+title                    : "YUE Qian's Website"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
